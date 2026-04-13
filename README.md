@@ -28,7 +28,7 @@ In conclusion, this Python script is a concise yet powerful demonstration of how
 
 #OUTPUT
 
-https://github.com/praveen13966/API-INTEGRATION-AND-DATA-VISUALIZATION/blob/main/Screenshot%202026-04-13%20120655.png?raw=true
+![img](https://github.com/praveen13966/API-INTEGRATION-AND-DATA-VISUALIZATION/blob/main/Screenshot%202026-04-13%20120655.png?raw=true)
 
 
 
